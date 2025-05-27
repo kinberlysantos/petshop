@@ -29,13 +29,7 @@ class AdminPanelProvider extends PanelProvider
             ->path('admin')
             ->login()
             ->colors([
-                'primary'   => '#076fd1',
-                'secondary' => '#6b7a91',
-                'danger'    => '#d5393a',
-                'warning'   => '#f76707',
-                'success'   => '#2eb347',
-                'info'      => '#4398e0',
-                'light'     => '#f7f8fc',
+               'primary' => 'rgb(102, 0, 204)',
             ])
             ->sidebarWidth('15rem')
             ->discoverResources(in: app_path('Filament/Resources'), for: 'App\\Filament\\Resources')
