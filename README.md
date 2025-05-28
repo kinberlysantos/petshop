@@ -11,7 +11,7 @@
 
 Sistema de gerenciamento de pets para pequenos petshops, construído com Laravel.
 
-![logo](ChatGPT Image 28 de mai. de 2025, 08_22_20.png)
+![logo](logo.png)
 
 ## 
 
